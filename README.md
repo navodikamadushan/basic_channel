@@ -7,7 +7,7 @@ basic channel model for learning digital communication
 - pnrz.m
 
 ## Installation and Run
-Make sure to install Pre-requisites and availability of dependencies \n
+Make sure to install Pre-requisites and availability of dependencies. <br/>
 Run topmodel.m file
 
 ## Functions
