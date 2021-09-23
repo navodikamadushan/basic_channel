@@ -13,6 +13,6 @@ Run topmodel.m file
 ## Functions
 - bit generation
 - pnrz line coding
-
+- QPSK Modulation
 ## Auther Information
 - Navodika Karunasingha (navodikaefac@gmail.com)
