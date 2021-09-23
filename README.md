@@ -17,6 +17,8 @@ Run topmodel.m file
 - pnrz line coding
 - QPSK Modulation
 - Matched filter demodulation
+- Detection
+- BER calculation
 
 ## Auther Information
 - Navodika Karunasingha (navodikaefac@gmail.com)
